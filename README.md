@@ -16,7 +16,7 @@
 * How must you set state all other places?
     * this.setState()
 
-#exec 4
+# exec 4
 
 * In a Controlled Component React state is made the "Single source of truth", so how:
     * The same component that renders the inputs also manages their state.
@@ -35,7 +35,7 @@
 * Explain in words what it takes to implement the "Controlled Component" pattern for a form
     * When we create an input for instance with initial value from Components state.
     
-#exec 6
+# exec 6
 
 * What is meant by the react term “Lifting State Up”?
     * That there is a root component managing state of child components
